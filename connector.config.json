@@ -464,7 +464,7 @@
   },
   "source": {
     "marketplaceId": "irodori.arangodb",
-    "repository": "https://github.com/hjosugi/irodori-extension-arangodb",
+    "repository": "https://github.com/irodori-table/irodori-extension-arangodb",
     "knowledgeEngineStatus": "recognized_no_connector",
     "adapter": null,
     "adapterSha256": null,

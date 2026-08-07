@@ -7,7 +7,7 @@
   "publisher": "irodori",
   "description": "ArangoDB Connector contributes the ArangoDB database connector through the native connector ABI.",
   "license": "MIT OR 0BSD",
-  "repository": "https://github.com/hjosugi/irodori-extension-arangodb",
+  "repository": "https://github.com/irodori-table/irodori-extension-arangodb",
   "apiVersion": "0.1",
   "runtime": "native",
   "entry": "dist/native",
